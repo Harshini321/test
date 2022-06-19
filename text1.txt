@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-I force committed
-=======
-I changesd once again
->>>>>>> parent of 6000539 (Revert "commit 2")
+Force commit once again
