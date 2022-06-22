@@ -1,1 +1,1 @@
-now i made changes to text3 in this new branch 
+now i made changes to text3 in this new branch , i want this to appear in github
