@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 i need this to be visible as text2 
+=======
+changing manually but i dont need this to be visible after commiting..
+i want to see the changes which i made locally
+>>>>>>> 8a27f7fef1020cb336a6a185d3f9b16055d4c306
