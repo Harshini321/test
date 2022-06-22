@@ -1,1 +1,2 @@
-new file
+changing manually but i dont need this to be visible after commiting..
+i want to see the changes which i made locally
